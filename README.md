@@ -1,1 +1,3 @@
-# pics =D
+# Pictures for Profile Readme
+
+Just Ignore it
